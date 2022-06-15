@@ -6,4 +6,4 @@ Repositório criado para o Desafio de Projeto.
 
 [Lista emojis Markdown](https://emojipedia.org/)😀
 
-[Criar tabelas Markdown](https://www.tablesgenerator.com/markdown_tables)
+[Criar tabelas Markdown](https://www.tablesgenerator.com/markdown_tables)🧮
