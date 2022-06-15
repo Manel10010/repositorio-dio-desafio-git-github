@@ -1,4 +1,4 @@
-# Tabela comandos.
+# Comandos.
 |Comando| Nomenclatura       | Função            |Linux |
 | ----- | ----------------- | ------------------ | ---- |
 |cd     | change directory  | muda o diretório   |ls    |
@@ -15,22 +15,22 @@
 # Simulando os comandos no terminal:
 
 ## EX: 
- - dir - vai me dar as pastas do atual diretório.
+ - dir                            | vai me dar as pastas do atual diretório.
  - cd /
- - cd Windows       | vai entrar em uma certa pasta.
- - cd ..            | volta pra pasta anterior.
- - cls              | limpa a tela.
+ - cd Windows           | vai entrar em uma certa pasta.
+ - cd ..                         | volta pra pasta anterior.
+ - cls                            | limpa a tela.
  - mkdir workspace  | criei uma pasta chamada workspace no diretório C:\
  - dir workspace	
- - echo Hello       | retorna um output (tipo um print).
- - echo > Hello.txt | cria um arquivo com o output (.txt especifica o tipo do arquivo).
+ - echo Hello              | retorna um output (tipo um print).
+ - echo > Hello.txt     | cria um arquivo com o output (.txt especifica o tipo do arquivo).
  - cd ..
- - del workspace    | ao pedir pra apagar ele vai pedir uma confirmação:
+ - del workspace       | ao pedir pra apagar ele vai pedir uma confirmação:
    - Tem certeza (S/N)? S
- - dir              | mostra que a pasta workspace ainda está la, pois, o comando del só se limita a arquivos.
+ - dir                            | mostra que a pasta workspace ainda está la, pois, o comando del só se limita a arquivos.
  - cd workspace
- - dir              | vai mostrar que o arquivo Hello.txt não está mais la.
- # RECRIANDO O ARQUIVO
- - echo > Hello.txt
- - cd ..
- - rmdir workspace /S /Q    | Apaguei a pasta workspace por completo.
+ - dir                            | vai mostrar que o arquivo Hello.txt não está mais la.
+ # RECRIANDO ARQUIVO E APAGANDO
+ - echo > Hello.txt                | criando pasta a partir de um output
+ - cd ..                                     | voltando uma pasta
+ - rmdir workspace /S /Q    | Apagando a pasta workspace por completo.
