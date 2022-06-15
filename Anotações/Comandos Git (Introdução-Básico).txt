@@ -1,0 +1,36 @@
+Comando| Nomeclatura       | Função            |||Indica que é linux
+====================================================================================
+cd     | change directory  | muda o diretorio  |||OBS: ls no linux
+cd ..  | change directory  | volta pra pasta anterior
+dir    | directory         | diretorio (pasta)
+cls    | clear screen      | limpa o terminal  |||OBS: clear no linux
+mkdir  | make directory    | cria uma pasta
+del    | delete            | apaga um arquivo obs: apenas arquivos não pastas!
+rmdir  | remove directory  | apaga um diretorio por complemeto, junto dos arquivos. OBS: rmdir "pasta" /S /Q pra facilitar  ||| para linux rm -rf "pasta"/
+echo   | output            | funciona como um print()
+echo > | ouput             | usa o output pra criar um arquivo. EX: echo > Hello.txt
+mv     | move              | move arquivos para pastas, mv arquivo.txt ./pasta/    
+=================================================
+Simulando os comandos no terminal:
+=================================================
+EX: dir - vai me dar as pastar do atual diretorio
+    cd /
+    cd Windows       | vai entrar em uma certa pasta
+    cd ..            | volta pra pasta anterior
+    cls              | limpa a tela
+    mkdir workspace  | criei uma pasta chamada workspace no diretorio C:\
+    dir workspace	
+    echo Hello       | retorna um output (tipo um print)
+    echo > Hello.txt | cria um arquivo com o output (.txt especifica o tipo do arquivo)
+    cd ..
+    del workspace    | ao pedir pra apagar ele vai pedir uma confirmação:
+-Tem certeza (S/N)? S
+    dir              | vai mostrar que a pasta workspace ainda está la, porque o comando del só se limita a arquivos não pastas
+    cd workspace
+    dir              | vai mostrar que o arquivo Hello.txt não está mais la
+
+    RECRIANDO O ARQUIVO
+    echo > Hello.txt
+    cd ..
+    rmdir workspace /S /Q    | Apaguei a pasta workspace por completo
+
