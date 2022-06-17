@@ -22,5 +22,4 @@ E dentro da tag body colocamos todo o conteúdo visível ao usuário: textos, im
 | <meta>          | fica dentro da head e seta o tipo do caracteres |
 | <title></title> | fica dentro da head e da nome pra página        |
 | <body></body>   | onde se localiza o conteúdo da página           |
-
-![Screenshot_2](C:\Users\wluca\OneDrive\Área de Trabalho\Screenshot_2.png)
+![Screenshot_2](https://user-images.githubusercontent.com/107083404/174201269-818f926e-c6f5-4132-98f8-134899d8b575.png)
