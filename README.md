@@ -11,3 +11,5 @@ Repositório criado para o Desafio de Projeto.
 [Gerador de textos](https://lipsum.com/feed/html)📜
 
 [Site de imagens](https://unsplash.com/)📷
+
+[Compressor de Imagens](https://tinypng.com/)🐼
