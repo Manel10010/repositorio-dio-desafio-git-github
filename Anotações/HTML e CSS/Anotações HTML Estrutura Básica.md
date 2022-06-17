@@ -14,15 +14,13 @@ E dentro da tag body colocamos todo o conteúdo visível ao usuário: textos, im
 
 # Escrita
 
-**@<!DOCTYPE html> | indica pro navegador que é um doc.html
-@<html> | tag html, tudo dentro dela é o arquivo em si
-@  <head> | dentro temas as informações
-@    <meta> | charset tipo dos caracteres
-@    <title></title> | titulo da aba do navegador
-@  </head>
-@  <body> | onde se localiza o conteúdo da página
-@  </body>
-@</html>**
+| Sintaxe         | Função                                          |
+| --------------- | ----------------------------------------------- |
+| <!DOCTYPE html> | indica pro navegador que é um doc.html          |
+| <html> </html>  | tag html, tudo dentro dela é o arquivo em si    |
+| <head></head>   | dentro fica temas e as informações              |
+| <meta>          | fica dentro da head e seta o tipo do caracteres |
+| <title></title> | fica dentro da head e da nome pra página        |
+| <body></body>   | onde se localiza o conteúdo da página           |
 
-
-
+![Screenshot_2](C:\Users\wluca\OneDrive\Área de Trabalho\Screenshot_2.png)
