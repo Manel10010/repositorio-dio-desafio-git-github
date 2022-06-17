@@ -17,7 +17,7 @@ E dentro da tag body colocamos todo o conteúdo visível ao usuário: textos, im
 | Sintaxe         | Função                                          |
 | --------------- | ----------------------------------------------- |
 | !DOCTYPE html   | indica pro navegador que é um doc.html          |
-| <html /html     | tag html, tudo dentro dela é o arquivo em si    |
+| html></html     | tag html, tudo dentro dela é o arquivo em si    |
 | head></head     | dentro fica temas e as informações              |
 | meta            | fica dentro da head e seta o tipo do caracteres |
 | title></title   | fica dentro da head e da nome pra página        |
