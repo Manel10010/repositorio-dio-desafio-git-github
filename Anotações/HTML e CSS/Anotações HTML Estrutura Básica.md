@@ -16,10 +16,10 @@ E dentro da tag body colocamos todo o conteúdo visível ao usuário: textos, im
 
 | Sintaxe         | Função                                          |
 | --------------- | ----------------------------------------------- |
-| @<!DOCTYPE html> | indica pro navegador que é um doc.html          |
-| @<html> </html>  | tag html, tudo dentro dela é o arquivo em si    |
-| @<head></head>   | dentro fica temas e as informações              |
-| @<meta>          | fica dentro da head e seta o tipo do caracteres |
-| @<title></title> | fica dentro da head e da nome pra página        |
-| @<body></body>   | onde se localiza o conteúdo da página           |
+| !DOCTYPE html   | indica pro navegador que é um doc.html          |
+| <html /html     | tag html, tudo dentro dela é o arquivo em si    |
+| head></head     | dentro fica temas e as informações              |
+| meta            | fica dentro da head e seta o tipo do caracteres |
+| title></title   | fica dentro da head e da nome pra página        |
+| body></body     | onde se localiza o conteúdo da página           |
 ![Screenshot_2](https://user-images.githubusercontent.com/107083404/174201269-818f926e-c6f5-4132-98f8-134899d8b575.png)
