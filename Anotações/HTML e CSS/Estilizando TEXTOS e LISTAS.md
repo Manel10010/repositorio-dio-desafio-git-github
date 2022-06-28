@@ -43,3 +43,6 @@ Não ordenada:
 Lista ordenada:
 
 1.  list-style-type: upper-roman; | Alterando o marcador da lista para um algarismo romano maiúsculo
+
+![class contact_list](https://user-images.githubusercontent.com/107083404/176088492-98524199-b84f-433e-a419-55f6f9fb9c38.png)
+![contacts_list css](https://user-images.githubusercontent.com/107083404/176088507-221671a2-2f55-47ae-85bf-33b64fa4dc83.png)
