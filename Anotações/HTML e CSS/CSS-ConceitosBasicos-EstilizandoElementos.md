@@ -70,6 +70,7 @@ Formas de estilizar a borda:
 
    border-bottom: 1px solid purple;  | Alterando o fundo
 
+
    border-left: 4px dotted cyan;          | Alterando o lado esquerdo
 
    - Alterando de forma mais especifica da anterior:
@@ -90,5 +91,7 @@ Arredonda as bordas.
 3. border-radius: 10% 20%;                 | top e bottom vão receber 10%, right e left 20%
 4. border-radius: 10% 20% 15% 22% | **top**: 10%; **right**: 20%; **bottom**:15%; e **left**: 22%;
 
+![index](https://user-images.githubusercontent.com/107083404/176085794-ff91ca63-4a97-4a92-96b2-d069b244979d.png)
+![css](https://user-images.githubusercontent.com/107083404/176085801-8652dd34-425f-48fc-9e92-1be9d19012c2.png)
 
 
