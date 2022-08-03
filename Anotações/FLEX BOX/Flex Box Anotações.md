@@ -94,8 +94,11 @@ Essa propriedade ela vai se encarregar do alinhamento dos itens dentro do contai
 - space-around  | os espaçamentos do meio são duas vezes maiores que o inicial e o final.
 
 ![Justify-content-ROW](https://user-images.githubusercontent.com/107083404/182498972-faa0e93d-88e1-43b8-90fc-840cfc1e3db1.png)
+
 ![Justify-content-COLUMN-1](https://user-images.githubusercontent.com/107083404/182498980-797209cb-0a42-4d9b-95ed-adb442480dd0.png)
+
 ![Justify-content-COLUMN-2](https://user-images.githubusercontent.com/107083404/182498987-9d2f4d7b-6a73-40d7-bc98-5e94e0822fe4.png)
+
 ![Justify-content-COLUMN-3](https://user-images.githubusercontent.com/107083404/182498993-2a2b3169-66be-4a00-8c98-9a36e513e614.png)
 
 
