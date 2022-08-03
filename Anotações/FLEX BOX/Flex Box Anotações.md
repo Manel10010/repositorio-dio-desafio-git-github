@@ -199,9 +199,21 @@ Esta propriedade é um atalho ou abreviação de escrever para as propriedades:
 
 grow, shrink e basis.
 
+![Flex](https://user-images.githubusercontent.com/107083404/182507466-20a6adcc-8f7f-488c-9efb-c94c54d63370.png)
+
+
+
 ## Order (itens)
 
 Lida diretamente com a ordenação dos flex-itens.
+
+![Order-ROW](https://user-images.githubusercontent.com/107083404/182507494-785c2a6c-df13-4664-b3f8-fcc9a225a23c.png)
+
+![Order-COLUMN](https://user-images.githubusercontent.com/107083404/182507500-5bba66ac-6c7a-4f63-ae55-643ee5565703.png)
+
+![Order-COLUMN-2](https://user-images.githubusercontent.com/107083404/182507505-45670f1d-fc1c-4654-84be-6b8b9034d775.png)
+
+
 
 ## Align-self (itens)
 
@@ -218,3 +230,10 @@ Lida diretamente com a ordenação dos flex-itens.
 
 - stretch     | ocupa todo o espaço relatio
 - baseline   | utiliza a linha base da tipografia
+
+![Align-self-ROW](https://user-images.githubusercontent.com/107083404/182507520-63297b4b-e8de-4729-858e-1e820be32f5e.png)
+
+![Align-self-COLUMN](https://user-images.githubusercontent.com/107083404/182507524-12762ea4-0f45-493a-95bd-e3513823405d.png)
+
+
+
