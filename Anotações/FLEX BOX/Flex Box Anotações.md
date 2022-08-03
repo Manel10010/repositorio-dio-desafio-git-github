@@ -191,3 +191,30 @@ Define a proporcionalidade de crescimento dos itens, respeitando o tamanho de se
 
 ![flex-shrink](https://user-images.githubusercontent.com/107083404/182499155-d1b5aa61-000f-4420-93f9-c1e8f68eb8d0.png)
 
+
+
+## Flex (itens)
+
+Esta propriedade é um atalho ou abreviação de escrever para as propriedades:
+
+grow, shrink e basis.
+
+## Order (itens)
+
+Lida diretamente com a ordenação dos flex-itens.
+
+## Align-self (itens)
+
+É a propriedade que estabelece o alinhamento de modo individual sobre um determinado item.
+
+**OBS:** O container desse item não pode ter um align-items definido
+
+**Valores possíveis:**
+
+- auto          |valor padrão, irá respeitar a definição de alinhamento de align-items do container.
+- flex-start  | ao início do container
+- flex-end   | ao final do container
+- center      | relativo ao centro de acordo com o eixo
+
+- stretch     | ocupa todo o espaço relatio
+- baseline   | utiliza a linha base da tipografia
